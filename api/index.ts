@@ -7,8 +7,6 @@ import moviesTable from '../db/table/moviesTable';
 
 configDotenv();
 
-console.log("little test");
-
 const app = express();
 const port = 3001;
 
